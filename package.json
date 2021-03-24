@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "dev": "SET PORT=80 & SET DEBUG=express-login:* & nodemon start",
+    "dev": "SET PORT=80 & SET DEBUG=expresslab2:* & nodemon start",
     "start": "node ./bin/www"
   },
   "dependencies": {
